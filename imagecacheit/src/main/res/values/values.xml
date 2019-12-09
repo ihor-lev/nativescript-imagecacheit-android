@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ImageView">
+        <attr format="dimension" name="borderRadius"/>
+        <attr format="dimension" name="borderTopLeftRadius"/>
+        <attr format="dimension" name="borderTopRightRadius"/>
+        <attr format="dimension" name="borderBottomRightRadius"/>
+        <attr format="dimension" name="borderBottomLeftRadius"/>
+        <attr format="dimension" name="borderWidth"/>
+        <attr format="dimension" name="borderTopWidth"/>
+        <attr format="dimension" name="borderRightWidth"/>
+        <attr format="dimension" name="borderBottomWidth"/>
+        <attr format="dimension" name="borderLeftWidth"/>
+        <attr format="color" name="borderColor"/>
+        <attr format="color" name="borderTopColor"/>
+        <attr format="color" name="borderRightColor"/>
+        <attr format="color" name="borderBottomColor"/>
+        <attr format="color" name="borderLeftColor"/>
+        <attr format="string" name="filter"/>
+    </declare-styleable>
+</resources>
